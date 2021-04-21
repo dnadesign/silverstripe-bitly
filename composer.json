@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "silverstripe/recipe-cms": "^1",
+    "silverstripe/recipe-cms": "^4",
     "guzzlehttp/guzzle": "~6.0"
   },
   "require-dev": {
